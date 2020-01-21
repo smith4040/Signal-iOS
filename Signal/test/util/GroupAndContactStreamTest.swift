@@ -3,6 +3,7 @@
 //
 
 import Foundation
+import Contacts
 import XCTest
 
 class GroupAndContactStreamTest: SignalBaseTest {
